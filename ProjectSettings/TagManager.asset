@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ladder
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Suelo
+  - Water
+  - UI
+  - Muebles
+  - Paredes
+  - Alfombra
+  - Auto
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Suelo
+    uniqueID: 3750844103
+    locked: 0
+  - name: Alfombra
+    uniqueID: 1769833891
+    locked: 0
+  - name: Paredes
+    uniqueID: 4237361191
+    locked: 0
+  - name: Muebles
+    uniqueID: 179005387
+    locked: 0
+  - name: Muebles2
+    uniqueID: 2752256505
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Auto
+    uniqueID: 2741137633
+    locked: 0
+  m_RenderingLayers:
+  - Default
